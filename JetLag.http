@@ -1,4 +1,4 @@
-@JetLag_HostAddress = http://localhost:5231
+@JetLag_HostAddress = http://localhost:5110
 
 GET {{JetLag_HostAddress}}/weatherforecast/
 Accept: application/json
