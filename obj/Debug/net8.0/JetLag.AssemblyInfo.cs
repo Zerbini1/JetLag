@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JetLag")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a1f403079e2dc64d57b0c40583f0bf4de5820b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8e28bae342a19a2cf0556038861e60a885fdadf")]
 [assembly: System.Reflection.AssemblyProductAttribute("JetLag")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JetLag")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
